@@ -240,3 +240,17 @@ Potential improvements could include:
 - Search and filter functionality
 - Drag-and-drop reordering
 - Todo history and undo functionality
+
+## Overview
+
+This is a fully functional React-based todo application built with Vite. It provides a clean, modern interface for managing daily tasks with support for both light and dark color schemes.
+
+## Features
+
+- **Add New Todos**: Create new tasks with a simple text input
+- **Mark as Completed**: Toggle completion status with checkboxes
+- **Delete Todos**: Remove tasks you no longer need
+- **Real-time Statistics**: View total, completed, and active todo counts
+- **Responsive Design**: Adapts to different screen sizes
+- **Dark/Light Mode**: Automatically adjusts based on system preferences
+- **Keyboard Support**: Press Enter to quickly add todos
