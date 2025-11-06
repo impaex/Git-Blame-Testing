@@ -1,3 +1,11 @@
+## Limitations
+
+- **No persistence**: Todos are stored in memory and lost on page refresh
+- **No backend**: All data is managed client-side
+- **Single user**: No authentication or multi-user support
+- **No categorization**: All todos are in a single list
+- **No due dates**: No time-based features
+
 # Todo App Documentation
 
 ## Overview
@@ -221,13 +229,7 @@ The app works on all modern browsers supporting:
 - **Optimized builds**: Production builds are minified and optimized
 - **Efficient rendering**: React only updates changed components
 
-## Limitations
 
-- **No persistence**: Todos are stored in memory and lost on page refresh
-- **No backend**: All data is managed client-side
-- **Single user**: No authentication or multi-user support
-- **No categorization**: All todos are in a single list
-- **No due dates**: No time-based features
 
 ## Future Enhancements
 
