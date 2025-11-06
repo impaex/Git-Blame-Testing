@@ -1,28 +1,3 @@
-## Architecture
-
-### Project Structure
-
-```
-todo-app/
-├── public/              # Static assets
-├── src/
-│   ├── App.jsx         # Main application component
-│   ├── App.css         # Application-specific styles
-│   ├── main.jsx        # Application entry point
-│   ├── index.css       # Global styles
-│   └── assets/         # Images and other assets
-├── index.html          # HTML template
-├── package.json        # Dependencies and scripts
-└── vite.config.js      # Vite configuration
-```
-
-### Technology Stack
-
-- **React 19.1.1**: Modern UI library for building the interface
-- **Vite 7.1.7**: Fast build tool and development server
-- **ESLint**: Code quality and consistency checking
-- **CSS3**: Styling with dark/light mode support
-
 # Todo App Documentation
 
 ## Overview
